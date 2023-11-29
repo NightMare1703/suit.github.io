@@ -10,7 +10,7 @@ function com() {
 function random(){
     const gambar = ['batu', 'gunting', 'kertas'];
     for(let i = 0; i <=gambar.length; i++)
-    console.log(gambar[0]);
+    console.log(gambar[i]);
 };
 
 function random(){
